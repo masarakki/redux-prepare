@@ -1,0 +1,27 @@
+{
+  "name": "redux-prepare",
+  "version": "1.0.0",
+  "description": "define fetch methods for required props simply",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masarakki/redux-prepare.git"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "masaki182@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masarakki/redux-prepare/issues"
+  },
+  "homepage": "https://github.com/masarakki/redux-prepare#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-redux": "*",
+    "redux": "*"
+  }
+}
